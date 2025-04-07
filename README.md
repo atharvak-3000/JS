@@ -1,2 +1,2 @@
 # JS
-code repo for javascript at chai aur code channel
+<h1>Code repo for javascript at ChaiaurCode channel</h1>

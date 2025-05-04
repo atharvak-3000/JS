@@ -1,2 +1,2 @@
-# JS
-<h1>Code repo for javascript at ChaiaurCode channel</h1>
+# this is a demo for git and github
+GitHub Demo
